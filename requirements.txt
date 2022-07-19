@@ -1,0 +1,11 @@
+open3d==0.8
+scikit-learn
+numpy
+tqdm
+yacs
+h5py
+matplotlib
+opencv-python
+torch
+torchvision
+torchaudio
