@@ -1,6 +1,7 @@
 # Point MixSwap
 
 This is the official repository of our ECCV 2022 paper, "Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions".
+<p align="center"><img src="assets/teaser.png" width="650"/>
 
 ### Dataset
 Prepare ModelNet40 dataset by downloading it via [this link](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip). Then, extract the zip file and move to folder such that the structure becomes: `data/modelnet40_ply_hdf5_2048`.
@@ -19,6 +20,9 @@ Yaml config file can be found in `configs` folder. The file contains all the hyp
     * `both`: perform mixup in both input and feature model    
 
 
+### Some Visualizations
+<p align="center"><img src="assets/vizs.png" width="800"/>
+   
 ### Cite
 ```
 @article{pointmixswap,
