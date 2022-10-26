@@ -22,6 +22,7 @@ Yaml config file can be found in `configs` folder. The file contains all the hyp
 
 ### Some Visualizations
 <p align="center"><img src="assets/vizs.png" width="800"/>
+<br><br><br>
 <p align="center"><img src="assets/more_viz.png" width="800"/>
    
 ### Cite
